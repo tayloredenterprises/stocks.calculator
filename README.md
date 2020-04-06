@@ -1,1 +1,3 @@
-# Stock_calculator
+# Stock Calculator
+
+My python-based stocks calculator. 
